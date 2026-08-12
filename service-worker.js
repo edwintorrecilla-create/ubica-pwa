@@ -1,5 +1,4 @@
 // Service worker de Ubica — permite abrir y usar la app sin señal dentro del almacén.
-// Service worker de Ubica — permite abrir y usar la app sin señal dentro del almacén.
 const CACHE_NAME = 'ubica-cache-v2';
 const CORE_ASSETS = [
   './index.html',
